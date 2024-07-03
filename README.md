@@ -1,3 +1,4 @@
+hello
 ## The Eighth Symposium on Educational Advances in Artificial Intelligence
 
 # Mighty Thymio for Higher-Level Robotics Education
